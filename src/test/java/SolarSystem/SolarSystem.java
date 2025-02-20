@@ -14,5 +14,10 @@ public class SolarSystem {
 
         obrey.planets=2;
 
+        Sun exosias=new Sun();
+        exosias.color="grey";
+        exosias.temp="-54k";
     }
-}
+
+
+    }
